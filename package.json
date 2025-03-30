@@ -1,0 +1,25 @@
+{
+  "name": "tdd-multiply",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@eslint/js": "^9.23.0",
+    "chai": "^5.2.0",
+    "eslint": "^9.23.0",
+    "eslint-plugin-react": "^7.37.4",
+    "globals": "^16.0.0",
+    "mocha": "^11.1.0",
+    "typescript-eslint": "^8.28.0"
+  },
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
