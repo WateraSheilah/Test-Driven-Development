@@ -1,5 +1,6 @@
+// My multiplication functon
 function multiply(a, b) {
-    return a * b; // Now actually multiplying
+    return a * b; 
 }
 
 module.exports = multiply;
