@@ -1,3 +1,4 @@
+// My testing environment
 const { expect } = require('chai');
 const multiply = require('../multiply');
 
